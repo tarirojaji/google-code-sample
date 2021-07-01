@@ -6,3 +6,4 @@ Work completed can be found [here](https://github.com/tarirojaji/google-code-sam
 ```bash
 python/src/video_player.py
 ```
+2 failed, 19 passed in 0.40s in Part 1
